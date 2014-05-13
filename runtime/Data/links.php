@@ -1,0 +1,1 @@
+<?php	return array ( 0 => array ( 'id' => '1', 'name' => '站长圈', 'url' => 'http://www.52jscn.com', 'status' => '1', ), 1 => array ( 'id' => '2', 'name' => '站长数据', 'url' => 'http://idc.52jscn.com', 'status' => '1', ), 2 => array ( 'id' => '3', 'name' => '友链平台', 'url' => 'http://link.52jscn.com', 'status' => '1', ), ); ?>
